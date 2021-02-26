@@ -1,0 +1,7 @@
+Prog.class
+com/treinamento/administrationservice/service/UserService.class
+com/treinamento/administrationservice/AdministrationServiceApplication.class
+com/treinamento/administrationservice/repository/UserRepository.class
+com/treinamento/administrationservice/entity/User.class
+TesteString.class
+com/treinamento/administrationservice/controller/UserController.class
