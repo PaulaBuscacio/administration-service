@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1690c81c-d2ee-419f-b863-bd5096228fa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/administration-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/administration-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Prog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Prog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/AdministrationServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/AdministrationServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/administrationservice/AdministrationServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/administrationservice/AdministrationServiceApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oP4ax8o1TecB8JZPfUev1aiv4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunManager" selected="Application.AdministrationServiceApplication">
+    <configuration name="AdministrationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.treinamento.administrationservice.AdministrationServiceApplication" />
+      <module name="administration-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.treinamento.administrationservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog" />
+      <module name="administration-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteString" />
+      <module name="administration-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdministrationServiceApplication" />
+        <item itemvalue="Application.Prog" />
+        <item itemvalue="Application.TesteString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1690c81c-d2ee-419f-b863-bd5096228fa6" name="Default Changelist" comment="" />
+      <created>1613174959380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613174959380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
