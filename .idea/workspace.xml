@@ -9,15 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1690c81c-d2ee-419f-b863-bd5096228fa6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/administration-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/administration-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/administration-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/administration-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Prog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Prog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Prog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Prog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TesteString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/AdministrationServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/AdministrationServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/treinamento/administrationservice/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/administrationservice/AdministrationServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/administrationservice/AdministrationServiceApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Application.AdministrationServiceApplication">
+  <component name="RunManager" selected="Application.Prog">
     <configuration name="AdministrationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.treinamento.administrationservice.AdministrationServiceApplication" />
       <module name="administration-service" />
@@ -80,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdministrationServiceApplication" />
         <item itemvalue="Application.Prog" />
+        <item itemvalue="Application.AdministrationServiceApplication" />
         <item itemvalue="Application.TesteString" />
       </list>
     </recent_temporary>

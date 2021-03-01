@@ -23,7 +23,7 @@ kind: Service
 metadata:
   name: administration-service
   labels:
-    app: administration=-service
+    app: administration-service
 spec:
   type: ClusterIp
   ports:
