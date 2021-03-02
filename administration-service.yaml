@@ -29,5 +29,5 @@ spec:
   ports:
     - port: 8060
       targetPort: 8060
-selector:
-  app: adminstration-service
+  selector:
+    app: adminstration-service
