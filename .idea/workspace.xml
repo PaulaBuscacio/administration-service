@@ -9,6 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1690c81c-d2ee-419f-b863-bd5096228fa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/administration-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/administration-service.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
